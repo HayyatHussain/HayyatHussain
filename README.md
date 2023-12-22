@@ -4,7 +4,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Frontend developer, Amateur author, Calisthenics athlete
 --------------------------------------------------------
 
-A self-taught frontend developer, with a creative and animated approach towards web principles. 👀 I’m interested in ... Learning new technologies, Developing pixel-perfect and interactive web applications, Maintaining quality over quantity, Solving complex problems
+A self-taught frontend developer, with a creative and animated approach towards web principles.
+👀 I’m interested in ... 
+ Learning new technologies, Developing pixel-perfect and interactive web applications, Maintaining quality over quantity, Solving complex problems
 
 * 🌍  I'm based in Islamabad
 * ✉️  You can contact me at [hayyathussain73@gmail.com](mailto:hayyathussain73@gmail.com)
