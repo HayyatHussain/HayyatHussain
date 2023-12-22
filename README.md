@@ -4,9 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Frontend developer, Amateur author, Calisthenics athlete
 --------------------------------------------------------
 
-A self-taught frontend developer, with a creative and animated approach towards web principles.<br>
-👀 I’m interested in ...<br>
- Learning new technologies, Developing pixel-perfect and interactive web applications, Maintaining quality over quantity, Solving complex problems
+A self-taught frontend developer, with a creative and animated approach towards web principles.<br>👀 I’m interested in ...<br>   Learning new technologies, Developing pixel-perfect and interactive web applications, Maintaining quality over quantity, Solving complex problems
 
 * 🌍  I'm based in Islamabad
 * ✉️  You can contact me at [hayyathussain73@gmail.com](mailto:hayyathussain73@gmail.com)
@@ -37,13 +35,9 @@ src="https://img.shields.io/twitter/follow/HaytHussain06?logo=twitter&style=for-
 
 <a href="http://www.github.com/HayyatHussain"><img src="https://github-readme-stats.vercel.app/api?username=HayyatHussain&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="HayyatHussain's GitHub stats" /></a>
 
-<a href="http://www.github.com/HayyatHussain"><img src="https://github-readme-streak-stats.herokuapp.com/?user=HayyatHussain&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
 <a href="https://github.com/HayyatHussain" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HayyatHussain&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 - Don't be shy or hesitant, be sure to reach out for me, even relating to some small discussions
-
-
 - I'm also active at https://www.freecodecamp.org/EclipsedNihilist .....
  
 <!---
