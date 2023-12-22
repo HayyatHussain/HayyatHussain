@@ -4,8 +4,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Frontend developer, Amateur author, Calisthenics athlete
 --------------------------------------------------------
 
-A self-taught frontend developer, with a creative and animated approach towards web principles.
-👀 I’m interested in ... 
+A self-taught frontend developer, with a creative and animated approach towards web principles.<br>
+👀 I’m interested in ...<br>
  Learning new technologies, Developing pixel-perfect and interactive web applications, Maintaining quality over quantity, Solving complex problems
 
 * 🌍  I'm based in Islamabad
