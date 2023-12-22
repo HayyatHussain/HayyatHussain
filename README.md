@@ -13,7 +13,7 @@
   - Javascript,
   - GSAP,
   - Python,
-  - Java
+  - Java .....
 
 - 🌱 I’m currently learning ...
   - Algorithms and Data Structures,
