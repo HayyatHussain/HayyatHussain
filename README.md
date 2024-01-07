@@ -13,9 +13,6 @@ A self-taught frontend developer, with a creative and animated approach towards 
 * 🤝  I'm open to collaborating on open source projects, volunteer projects and other small scale projects
 * ⚡  Also enjoy cooking and reading
 
-<a href="https://www.x.com/HaytHussain06" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/HaytHussain06?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a>
 
 ### Skills
 
