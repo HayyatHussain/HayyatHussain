@@ -50,7 +50,8 @@
 
 <br>
 
-- Don't be shy or hesitant, be sure to reach out for me, even relating to some small discussions
+- Don't be shy or hesitant, be sure to reach out for me, even relating to some small discussions<br><br>
+
  
 <!---
 HayyatHussain/HayyatHussain is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
