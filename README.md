@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Hayyat Hussain
 ======================================================================================================================================
 
-Frontend developer, Amateur author, Calisthenics athlete
+Frontend developer, Amateur author
 --------------------------------------------------------
 
 A self-taught frontend developer, with a creative and animated approach towards web principles.<br>👀 I’m interested in ...<br>Learning new technologies, Developing pixel-perfect and interactive web applications, Maintaining quality over quantity, Solving complex problems
