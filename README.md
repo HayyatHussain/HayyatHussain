@@ -2,8 +2,9 @@
 ======================================================================================================================================
 
 --------------------------------------------------------
-<br><br>
-A self-taught frontend developer, with a creative and animated approach towards web principles.<br>👀 I’m interested in ...<br>Learning new technologies, Developing pixel-perfect and interactive web applications, Maintaining quality over quantity, Solving complex problems
+<br>
+A self-taught frontend developer, with a creative and animated approach towards web principles.<br><br><br>
+👀 I’m interested in ...<br>Learning new technologies, Developing pixel-perfect and interactive web applications, Maintaining quality over quantity, Solving complex problems
 <br><br><br>
 
 * 🌍  I'm based in Islamabad
