@@ -4,7 +4,7 @@
 --------------------------------------------------------
 <br>
 <h1>Web developer, with a creative and animated approach towards web structure and principles.</h1><br><br><br>
-👀 I’m interested in ...<br>Learning new technologies, Developing pixel-perfect and interactive web applications, Maintaining quality over quantity, Solving complex problems
+<h2>I’m interested in ...</h2><br><h3>Learning new technologies <br> Developing pixel-perfect and interactive web applications <br> Maintaining quality over quantity <br> Solving complex problems</h3>
 <br><br><br>
 
 * 🌍  I'm based in Islamabad
