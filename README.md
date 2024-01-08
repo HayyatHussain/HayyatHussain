@@ -2,6 +2,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ======================================================================================================================================
 
 Frontend developer, Amateur author
+<!--   my-ticker -->    
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Andrej+Marinchenko;+Welcome+to+My+Profile!;Over+4+years+of+programming+experience;Always+learning+new+things+;Machine+learning+enthusiast+;Kaggle+community+member)](https://git.io/typing-svg)
 --------------------------------------------------------
 
 A self-taught frontend developer, with a creative and animated approach towards web principles.<br>👀 I’m interested in ...<br>Learning new technologies, Developing pixel-perfect and interactive web applications, Maintaining quality over quantity, Solving complex problems
