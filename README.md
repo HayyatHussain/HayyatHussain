@@ -3,15 +3,15 @@
 
 --------------------------------------------------------
 <br>
-<h1>Web developer, with a creative and animated approach towards web structure and principles.</h1><br><br><br>
+<h1>Web developer, with a creative and animated approach towards web structure and principles.</h1><br><br>
 <h2>I’m interested in ...</h2><br><h3>- Learning new technologies <br><br><br> - Developing pixel-perfect and interactive web applications <br><br><br> - Maintaining quality over quantity <br><br><br> - Solving complex problems</h3>
 <br><br><br>
 
 * 🌍  I'm based in Islamabad
-* ✉️  You can contact me at [hayyathussain73@gmail.com](mailto:hayyathussain73@gmail.com)
-* 🚀  I'm currently working on [Frontend Mentor Challenges](http://https://www.frontendmentor.io/profile/HayyatHussain)
-* 🧠  I'm learning SASS, React, jQuery and Data Structure and Algorithms
-* 🤝  I'm open to collaborating on open source projects, volunteer projects and other small scale projects
+* ✉️  You can contact me at [hayyathussain73@gmail.com](mailto:hayyathussain73@gmail.com)<br>
+* 🚀  I'm currently working on [Frontend Mentor Challenges](http://https://www.frontendmentor.io/profile/HayyatHussain)<br>
+* 🧠  I'm learning SASS, React, jQuery and Data Structure and Algorithms<br>
+* 🤝  I'm open to collaborating on open source projects, volunteer projects and other small scale projects<br>
 * ⚡  Also enjoy cooking and reading
 
 <br><br>
