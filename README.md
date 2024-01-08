@@ -51,6 +51,7 @@
 <br>
 
 - Don't be shy or hesitant, be sure to reach out for me, even relating to some small discussions<br><br>
+- <strong>"To anyone among you wondering why I've written so much HTML, it's all because of those SVGs!"</strong>
 
  
 <!---
