@@ -9,7 +9,7 @@ A self-taught frontend developer, with a creative and animated approach towards 
 * 🌍  I'm based in Islamabad
 * ✉️  You can contact me at [hayyathussain73@gmail.com](mailto:hayyathussain73@gmail.com)
 * 🚀  I'm currently working on [Frontend Mentor Challenges](http://https://www.frontendmentor.io/profile/HayyatHussain)
-* 🧠  I'm learning WordPress, SASS, React, jQuery and Data Structure and Algorithms
+* 🧠  I'm learning SASS, React, jQuery and Data Structure and Algorithms
 * 🤝  I'm open to collaborating on open source projects, volunteer projects and other small scale projects
 * ⚡  Also enjoy cooking and reading
 
