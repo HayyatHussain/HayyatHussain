@@ -1,14 +1,12 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Hayyat+Hussain;+Welcome+to+My+Profile!;+Web+Developer;+Over+1+years+of+programming+experience;Always+learning+new+things+;Frontend+Mentor+enthusiast)](https://git.io/typing-svg)
 ======================================================================================================================================
 
-
-
-
+###
 --------------------------------------------------------
-
+###
 A self-taught frontend developer, with a creative and animated approach towards web principles.<br>👀 I’m interested in ...<br>Learning new technologies, Developing pixel-perfect and interactive web applications, Maintaining quality over quantity, Solving complex problems
 
-
+###
 * 🌍  I'm based in Islamabad
 * ✉️  You can contact me at [hayyathussain73@gmail.com](mailto:hayyathussain73@gmail.com)
 * 🚀  I'm currently working on [Frontend Mentor Challenges](http://https://www.frontendmentor.io/profile/HayyatHussain)
