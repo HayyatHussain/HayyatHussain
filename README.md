@@ -12,6 +12,7 @@
 * 🧠  I'm learning SASS, React, jQuery and Data Structure and Algorithms<br>
 * 🤝  I'm open to collaborating on open source projects, volunteer projects and other small scale projects<br>
 * ⚡  Also enjoy cooking and reading<br>
+<br><br>
 ![](https://komarev.com/ghpvc/?username=Hayyat-Hussain)
 <br><br>
 
