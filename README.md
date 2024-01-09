@@ -13,7 +13,7 @@
 * 🤝  I'm open to collaborating on open source projects, volunteer projects and other small scale projects<br>
 * ⚡  Also enjoy cooking and reading<br>
 <br><br>
-![](https://komarev.com/ghpvc/?username=Hayyat-Hussain&color=brightgreen&style=for-the-badge&base=1434340&abbreviated=true)
+![](https://komarev.com/ghpvc/?username=Hayyat-Hussain&color=brightgreen&style=for-the-badge&base=260&abbreviated=true)
 <br><br>
 
 ### Skills
