@@ -11,8 +11,8 @@
 * 🚀  I'm currently working on [Frontend Mentor Challenges](http://https://www.frontendmentor.io/profile/HayyatHussain)<br>
 * 🧠  I'm learning SASS, React, jQuery and Data Structure and Algorithms<br>
 * 🤝  I'm open to collaborating on open source projects, volunteer projects and other small scale projects<br>
-* ⚡  Also enjoy cooking and reading
-
+* ⚡  Also enjoy cooking and reading<br>
+![](https://komarev.com/ghpvc/?username=Hayyat-Hussain)
 <br><br>
 
 ### Skills
