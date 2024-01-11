@@ -9,7 +9,7 @@
 * 🌍  I'm based in Islamabad
 * ✉️  You can contact me at [hayyathussain73@gmail.com](mailto:hayyathussain73@gmail.com)<br>
 * 🚀  I'm currently working on [Frontend Mentor Challenges](http://https://www.frontendmentor.io/profile/HayyatHussain)<br>
-* 🚀  I'm learning SASS, React, jQuery and Data Structure and Algorithms<br>
+* 🚀  I'm learning PHP, mySQL, SASS, React, jQuery and Data Structure and Algorithms<br>
 * 🤝  I'm open to collaborating on open source projects, volunteer projects and other small scale projects<br>
 * ⚡  Also enjoy cooking and reading<br>
 <br><br>
