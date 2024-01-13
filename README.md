@@ -40,7 +40,7 @@
 
 <br><br>
 
-<b>My GitHub Stats</b>
+<b>My GitHub Stats</br>
 <br><br><br>
 
 
