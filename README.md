@@ -3,6 +3,7 @@
 <!--
 
 
+
 --------------------------------------------------------
 <h1>Web developer, with a creative and animated approach towards web structure and principles.</h1><br><br>
 <h2>I’m interested in ...</h2><br><h3>- Learning new technologies <br><br> - Developing pixel-perfect and interactive web applications <br><br> - Maintaining quality over quantity <br><br> - Solving complex problems</h3>
