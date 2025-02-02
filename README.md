@@ -1,25 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Hayyat+Hussain;+Web+Developer,+Amateur+Author;+Over+2+years+of+programming+experience;Always+learning+new+things+;Frontend+Mentor+enthusiast)](https://git.io/typing-svg)
 ======================================================================================================================================
-<!--
 
---------------------------------------------------------
-
-<h1>Web developer, with a creative and animated approach towards web structure and principles.</h1><br><br>
-<h2>I’m interested in ...</h2><br><h3>- Learning new technologies <br><br> - Developing pixel-perfect and interactive web applications <br><br> - Maintaining quality over quantity <br><br> - Solving complex problems</h3>
-<br><br>
-* 🌍  I'm based in Islamabad
-* ✉️  You can contact me at [hayyathussain73@gmail.com](mailto:hayyathussain73@gmail.com)<br>
-* 🚀  I'm currently working on [Frontend Mentor Challenges](http://https://www.frontendmentor.io/profile/HayyatHussain)<br>
-* 🚀  I'm learning PHP, mySQL, SASS, React, jQuery and Data Structure and Algorithms<br>
-* 🤝  I'm open to collaborating on open source projects, volunteer projects and other small scale projects<br>
-* ⚡  Also enjoy cooking and reading<br>
-<br><br>
-![](https://komarev.com/ghpvc/?username=Hayyat-Hussain&color=brightgreen&style=for-the-badge&base=260&abbreviated=true)
-<br><br>
-
-### Skills
-
-
+<!---
 <br>
 
 <p align="left">
